@@ -1,0 +1,27 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.2",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@inertiajs/vue3": "^1.0.2",
+        "@vitejs/plugin-vue": "^4.1.0",
+        "datatables.net": "^1.13.2",
+        "datatables.net-bs5": "^1.13.2",
+        "datatables.net-buttons-bs5": "^2.3.4",
+        "datatables.net-responsive-bs5": "^2.4.0",
+        "datatables.net-select": "^1.6.0",
+        "datatables.net-vue3": "^2.0.0",
+        "html2pdf.js": "^0.10.1",
+        "jszip": "^3.10.1",
+        "pdfmake": "^0.2.7",
+        "qrcode.vue": "^3.3.4",
+        "vue3-apexcharts": "^1.4.1"
+    }
+}
